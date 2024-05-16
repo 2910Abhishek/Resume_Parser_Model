@@ -1,0 +1,5 @@
+spacy
+flask
+pymupdf
+pyresparser
+streamlit
